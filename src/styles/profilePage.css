@@ -1,0 +1,26 @@
+/* Clock.css */
+
+.clock {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.time {
+  font-size: 2em;
+  /* font-weight: bold; */
+  color: white;
+  background-color: navy;
+  font-family: "DS-Digital", "LCD", "Roboto Mono", monospace;
+}
+
+.country-dropdown{
+  margin-top: 10px;
+}
+
+.start-button {
+  margin-top: 45px;
+}
+
+.back-button {
+  margin-top: 45px;
+}
